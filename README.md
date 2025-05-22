@@ -3,7 +3,7 @@
 <h1 align="center">Hello there 👋, I'm Furkan</h1>
 <h3 align="center">Java Software Engineer from Istanbul, Turkey</h3>
 
-- 🔭 I’m currently working on **Migros One**
+- 🔭 I’m currently working at **Borsa Istanbul**
 
 - 🌱 I'm on track with learning more about **Java, Spring Framework, and Software Architecture**
 
